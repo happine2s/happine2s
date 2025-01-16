@@ -36,7 +36,7 @@
 ### 📍 Experience
 - **Likelion 11th Executive**, 2023.01 ~ 2023.12
   - 2023 Line4 Hackathon
-- **GDSG 22th**, 2022.09 ~ 2023.04
+- **GDSC 22th**, 2022.09 ~ 2023.04
     - 2023 Solution Challenge
 - **LikeLion 10th**, 2022.03 ~ 2022.12
   - Likelion Central Hackathon
