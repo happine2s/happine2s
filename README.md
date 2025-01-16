@@ -23,7 +23,6 @@
 - **Sunrin Internet High School**, South Korea
   - Information Protection Department
 
-<br>
 
 ### 📦 Projects
 | Service | Period | Description |
@@ -33,7 +32,6 @@
 | [rememB](https://github.com/happine2s/rememB-Server-Deploy) | 2022.06 ~ 2022.07 | Remember your Birthday! Gift Taste Balance Game, Letter Writing Service |
 | [Moram-Moram](https://github.com/ZUITOPIA/moram_moram) | 2022.03 ~ 2022.05 | Image Capturing ai-based diary service |
 
-<br>
 
 ### 📍 Experience
 - **Likelion 11th Executive**, 2023.01 ~ 2023.12
@@ -47,7 +45,7 @@
   - Naver D2 award
   - Moram-Moram: Image Capturing ai-based diary service
 
-<br>
+
 
 ### ✏️ Tech Stack
 **Server**
