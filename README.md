@@ -29,8 +29,8 @@
 | :---: | --- | --- |
 | [S-Class](https://github.com/onboarding-kit/onboarding-kit-backend) | 2025.03 ~ 2025.05 | AI Checklist for Newbies in Society, onboarding Kit |
 | [Webfounder](https://github.com/Likelion-at-SMWU-WebFounder/Recruit-Backend) | 2023.11 ~ 2024.02 | Recruiting website for LikeLion 12th |
-| [Marbon](https://github.com/dsc-sookmyung/2023-Nerror-SolutionChallenge) | 2023.01 ~ 2023.04 | Environmental solutions to reduce digital carbon footprint: unnecessary emails |
-| [rememB](https://github.com/happine2s/rememB-Server-Deploy) | 2022.06 ~ 2022.07 | Remember your Birthday! Gift Taste Balance Game, Letter Writing Service |
+| [All Rights](https://github.com/happine2s/Allrights-server) | 2023.10 ~ 2023.11 | Sound effects and background music download service |
+| [Marbon](https://github.com/dsc-sookmyung/2023-Nerror-SolutionChallenge) | 2023.01 ~ 2023.04 | Environmental solutions to reduce digital carbon footprint: unnecessary emails | Sound effects and background music download service |
 | [Moram-Moram](https://github.com/ZUITOPIA/moram_moram) | 2022.03 ~ 2022.05 | Image Capturing ai-based diary service |
 
 
