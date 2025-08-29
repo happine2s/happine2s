@@ -3,15 +3,20 @@
   # Soyun Park
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/soyun-park-565818341/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/soyun-park-565818341/"/>
+    <a href="https://www.linkedin.com/in/%EC%86%8C%EC%9C%A4-%EB%B0%95-565818341/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/soyun-park-565818341/"/>
     </a>&nbsp
     <a href="mailto:happine2s@sookmyung.ac.kr">
-      <img src="https://img.shields.io/badge/happine2s@sookmyung.ac.kr-005AAA?style=flat-square&logo=snowflake&logoColor=white&link=happine2s@sookmyung.ac.kr"/>
+      <img src="https://img.shields.io/badge/happine2s@sookmyung.ac.kr-005AAA?style=flat&logo=snowflake&logoColor=white&link=happine2s@sookmyung.ac.kr"/>
     </a>
   </p>
 
-  I'm interested in **backend development** and **infrastructure**, focusing on building efficient and reliable databases. I’m all about exploring **new places**, trying **new things**, and **learning** along the way. I’m excited to live a dynamic life full of growth and new experiences.
+I'm passionate about **backend development** and **infrastructure engineering**,  
+with a focus on building scalable and maintainable systems.
+
+I value **clean code and thoughtful architecture**,  
+and I strive to design systems that are not only functional but also  
+**adaptable to change, easy to test, and maintainable over time.**
 
 </div>
 
@@ -19,49 +24,47 @@
 
 ### 🏫 Education
 - **Sookmyung Women's University**, South Korea
-  - Bachelor of IT Engineering
+  - Bachelor of Science in Information Technology Engineering
 - **Sunrin Internet High School**, South Korea
-  - Information Protection Department
+  - Department of Information Security
 
 
 ### 📦 Projects
-| Service | Period | Description |
-| :---: | --- | --- |
-| [S-Class](https://github.com/onboarding-kit/onboarding-kit-backend) | 2025.03 ~ 2025.05 | AI Checklist for Newbies in Society, onboarding Kit |
-| [Webfounder](https://github.com/Likelion-at-SMWU-WebFounder/Recruit-Backend) | 2023.11 ~ 2024.02 | Recruiting website for LikeLion 12th |
-| [All Rights](https://github.com/happine2s/Allrights-server) | 2023.10 ~ 2023.11 | Sound effects and background music download service |
-| [Marbon](https://github.com/dsc-sookmyung/2023-Nerror-SolutionChallenge) | 2023.01 ~ 2023.04 | Environmental solutions to reduce digital carbon footprint: unnecessary emails | Sound effects and background music download service |
-| [Moram-Moram](https://github.com/ZUITOPIA/moram_moram) | 2022.03 ~ 2022.05 | Image Capturing ai-based diary service |
+| Service | Period | Description | Tech |
+| :---: | --- | --- | --- |
+| [LXD](https://github.com/LXD-UMC-8th/BE-LXD) | 2025.07 ~ 2025.08 | Language exchange diary for foreign language learners | Spring Boot, QueryDSL, Redis, SSE, Docker, GitHub Actions |
+| [DDD](https://github.com/ACC-DDD/DDD-backend) | 2025.05 ~ 2025.08 | CCTV-based real-time fire detection and alert system | Spring Boot, AWS (ECS, DynamoDB, Elastic Cache, Secrets Manager) |
+| [Webfounder](https://github.com/Likelion-at-SMWU-WebFounder/Recruit-Backend) | 2023.11 ~ 2024.02 | Recruiting platform for LikeLion 12th | Spring Boot, AWS (EC2, S3, RDS), Nginx, Docker |
+| [Moram-Moram](https://github.com/ZUITOPIA/moram_moram) | 2022.03 ~ 2022.05 | AI-based diary service with image capturing | Spring Boot, PyTorch, FastAPI |
 
 
 ### 📍 Experience
-- **Likelion 11th Executive**, 2023.01 ~ 2023.12
-  - 2023 Line4 Hackathon
-- **GDSC 22th**, 2022.09 ~ 2023.04
-    - 2023 Solution Challenge
-- **LikeLion 10th**, 2022.03 ~ 2022.12
-  - Likelion Central Hackathon
-  - 2022 Hereton Hackathon
-- **Grand Award (1st Place)**, 2022 IPS Contest
-  - Naver D2 award
-  - Moram-Moram: Image Capturing ai-based diary service
+**Clubs & Activities**  
+- **University Makeus Challenge (UMC)** — Server Lead (9th, 2025.09–2026.02), Server Member (8th, 2025.03–2025.08)  
+- **AWS Cloud Club (ACC)** — Member (3rd, 2025.03–2025.12)  
+- **Likelion** — Backend Lead (11th, 2023.01–2023.12), Backend Member (10th, 2022.03–2022.12)  
+- **Google Developer Student Club (GDSC)** — Spring Boot & ML Member (22th, 2022.09–2023.03)  
+- **IPS Contest (2022)** — 🏆 Grand Award (1st Place, Naver D2 Award)  
+  - Project: *Moram-Moram* (AI-based diary service with image capturing)  
+
+**Internships**  
+- **Mandro** — Full-stack (2025.08), Developed a real-time dual-camera streaming system on Raspberry Pi  
 
 
 ### ✏️ Tech Stack
 **Server**
 <br>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
-<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
-<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/QueryDSL-000000?style=flat&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 
-
-**Infra**
+**AWS & DevOps**
 <br>
-<img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
