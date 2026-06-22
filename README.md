@@ -64,13 +64,7 @@ I value scalable, maintainable systems built with clean code and thoughtful arch
 
 ## Contact
 <p>
-  <a href="https://www.linkedin.com/in/soyun-park-565818341/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:happine2s@sookmyung.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://velog.io/@happine2s">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/soyun-park-565818341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:happine2s@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://velog.io/@happine2s"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 </p>
